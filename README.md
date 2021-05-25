@@ -1,4 +1,4 @@
-#### seleniumProjecttestNG
+### seleniumProjectTestNG
 
 
 ### Way to execute the Assignment Maven project locally.
