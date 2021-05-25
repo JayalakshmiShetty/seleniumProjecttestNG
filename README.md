@@ -16,7 +16,7 @@
 11. Extent report can be viewed by right right clicking  "TestReport_Extent.html" file in test-output folder in intellij left menu and click Öpen in browser". 
 
 To execute from the Terminal , navigate to the project directory and run the below command :
-''' mvn clean test -DsuiteXmlFile="./src/test/java/com/resources/testng.xml"  '''
+>- mvn clean test -DsuiteXmlFile="./src/test/java/com/resources/testng.xml
 
 
 ****************************************************************************
