@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f9ea1e8-ad5b-4e4c-8adf-a80de4dd1e1d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qjavqdjOWYMRTqw2IF5UZSfskz" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pradap\Downloads\UIAutomationAssignment\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.ExtentReportListener" />
+      <recent name="com.qa.testcases" />
+      <recent name="com.qa.pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\gitrepo\Assesment\src\test\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Pradap/Downloads/UIAutomationAssignment/src/main/resources/Testng.xml">
+    <configuration name="C:/Users/Pradap/Downloads/UIAutomationAssignment/src/main/resources/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/Testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyClickOnCancelButtonInAddComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyClickOnCancelButtonInAddComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyClickOnCancelButtonInEditComputerTest" type="TestNG" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyClickOnCancelButtonInEditComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyDeleteComputerTest (1)" type="TestNG" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyDeleteComputerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyDeleteComputerTest" type="TestNG" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyDeleteComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyEditComputerWithoutNameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyEditComputerWithoutNameTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyFilterComputerByNameTest (1)" type="TestNG" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyFilterComputerByNameTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyFilterComputerByNameTest" type="TestNG" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyFilterComputerByNameTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyThatUserCanEditComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyThatUserCanEditComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyThatUserCanEditComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyThatUserCanEditComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.verifyThatUserCanEditComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="assesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.ComputerTest" />
+      <option name="METHOD_NAME" value="verifyThatUserCanEditComputerTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.LoginTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ComputerTest.verifyFilterComputerByNameTest (1)" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.ComputerTest.verifyClickOnCancelButtonInEditComputerTest" />
+      <item itemvalue="TestNG.ComputerTest.verifyDeleteComputerTest" />
+      <item itemvalue="TestNG.ComputerTest.verifyDeleteComputerTest (1)" />
+      <item itemvalue="TestNG.ComputerTest.verifyFilterComputerByNameTest" />
+      <item itemvalue="TestNG.ComputerTest" />
+      <item itemvalue="TestNG.ComputerTest.verifyClickOnCancelButtonInAddComputerTest" />
+      <item itemvalue="TestNG.C:/Users/Pradap/Downloads/UIAutomationAssignment/src/main/resources/Testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Pradap/Downloads/UIAutomationAssignment/src/main/resources/Testng.xml" />
+        <item itemvalue="TestNG.ComputerTest" />
+        <item itemvalue="TestNG.ComputerTest.verifyClickOnCancelButtonInAddComputerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f9ea1e8-ad5b-4e4c-8adf-a80de4dd1e1d" name="Default Changelist" comment="" />
+      <created>1617595689097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617595689097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/util/TestUtil.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/util/TestUtil.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/util/TestUtil.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qa/testcases/ComputerTest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qa/testcases/ComputerTest.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/pages/ComputerDBHomePage.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/pages/ComputerDBHomePage.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qa/pages/ComputerDBHomePage.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qa/testcases/ComputerTest.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qa/testcases/ComputerTest.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UIAutomationAssignment$ComputerTest_verifyEditComputerWithoutNameTest__1_.ic" NAME="ComputerTest.verifyEditComputerWithoutNameTest (1) Coverage Results" MODIFIED="1621913805712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qa.testcases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UIAutomationAssignment$C__Users_Pradap_Downloads_UIAutomationAssignment_Testng_xml.ic" NAME="$PROJECT_DIR$/Testng.xml Coverage Results" MODIFIED="1621868088272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AutomatedTest" verbose="1">
+    <listeners>
+        <listener class-name="com.qa.ExtentReportListener.ExtentReporterNGListener" />
+    </listeners>
+
+    <test name="AutomatedTest">
+        <classes>
+            <class name="com.qa.testcases.ComputerTest"/>
+        </classes>
+    </test>
+</suite>

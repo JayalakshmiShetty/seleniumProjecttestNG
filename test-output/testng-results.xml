@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-25T11:40:21 GST" name="AutomatedTest" finished-at="2021-05-25T11:42:34 GST" duration-ms="132726">
+    <groups>
+      <group name="Regression">
+        <method signature="ComputerTest.verifyDeleteComputerTest()[pri:8, instance:com.qa.testcases.ComputerTest@69b794e2]" name="verifyDeleteComputerTest" class="com.qa.testcases.ComputerTest"/>
+        <method signature="ComputerTest.verifyFilterComputerByNameTest()[pri:9, instance:com.qa.testcases.ComputerTest@69b794e2]" name="verifyFilterComputerByNameTest" class="com.qa.testcases.ComputerTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2021-05-25T11:40:21 GST" name="AutomatedTest" finished-at="2021-05-25T11:42:34 GST" duration-ms="132726">
+      <class name="com.qa.testcases.ComputerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:21 GST" name="setUp" finished-at="2021-05-25T11:40:28 GST" duration-ms="6723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyThatUserCanAddComputerWithAllDetailsTest()[pri:1, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:28 GST" name="verifyThatUserCanAddComputerWithAllDetailsTest" finished-at="2021-05-25T11:40:34 GST" duration-ms="6074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserCanAddComputerWithAllDetailsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:34 GST" name="teardown" finished-at="2021-05-25T11:40:35 GST" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:35 GST" name="setUp" finished-at="2021-05-25T11:40:40 GST" duration-ms="5492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyThatUserCanAddComputerWithComputerNameTest()[pri:2, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:40 GST" name="verifyThatUserCanAddComputerWithComputerNameTest" finished-at="2021-05-25T11:40:45 GST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserCanAddComputerWithComputerNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:45 GST" name="teardown" finished-at="2021-05-25T11:40:46 GST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:46 GST" name="setUp" finished-at="2021-05-25T11:40:51 GST" duration-ms="5427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddComputerWithoutNameTest()[pri:3, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:51 GST" name="verifyAddComputerWithoutNameTest" finished-at="2021-05-25T11:40:55 GST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddComputerWithoutNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:55 GST" name="teardown" finished-at="2021-05-25T11:40:56 GST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:40:56 GST" name="setUp" finished-at="2021-05-25T11:41:01 GST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnCancelButtonInAddComputerTest()[pri:4, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:01 GST" name="verifyClickOnCancelButtonInAddComputerTest" finished-at="2021-05-25T11:41:04 GST" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnCancelButtonInAddComputerTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:04 GST" name="teardown" finished-at="2021-05-25T11:41:04 GST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:04 GST" name="setUp" finished-at="2021-05-25T11:41:09 GST" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyThatUserCanEditComputerTest()[pri:5, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:09 GST" name="verifyThatUserCanEditComputerTest" finished-at="2021-05-25T11:41:18 GST" duration-ms="8980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserCanEditComputerTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:18 GST" name="teardown" finished-at="2021-05-25T11:41:19 GST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:19 GST" name="setUp" finished-at="2021-05-25T11:41:37 GST" duration-ms="18325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEditComputerWithoutNameTest()[pri:6, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:37 GST" name="verifyEditComputerWithoutNameTest" finished-at="2021-05-25T11:41:43 GST" duration-ms="5723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditComputerWithoutNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:43 GST" name="teardown" finished-at="2021-05-25T11:41:44 GST" duration-ms="849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:44 GST" name="setUp" finished-at="2021-05-25T11:41:48 GST" duration-ms="4294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickOnCancelButtonInEditComputerTest()[pri:7, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:48 GST" name="verifyClickOnCancelButtonInEditComputerTest" finished-at="2021-05-25T11:41:59 GST" duration-ms="10934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnCancelButtonInEditComputerTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:41:59 GST" name="teardown" finished-at="2021-05-25T11:42:00 GST" duration-ms="1677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:00 GST" name="setUp" finished-at="2021-05-25T11:42:05 GST" duration-ms="4849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDeleteComputerTest()[pri:8, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:05 GST" name="verifyDeleteComputerTest" finished-at="2021-05-25T11:42:17 GST" duration-ms="11445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteComputerTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:17 GST" name="teardown" finished-at="2021-05-25T11:42:18 GST" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:18 GST" name="setUp" finished-at="2021-05-25T11:42:24 GST" duration-ms="6323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFilterComputerByNameTest()[pri:9, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:24 GST" name="verifyFilterComputerByNameTest" finished-at="2021-05-25T11:42:32 GST" duration-ms="8048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFilterComputerByNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.testcases.ComputerTest@69b794e2]" started-at="2021-05-25T11:42:32 GST" name="teardown" finished-at="2021-05-25T11:42:34 GST" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.ComputerTest -->
+    </test> <!-- AutomatedTest -->
+  </suite> <!-- AutomatedTest -->
+</testng-results>
